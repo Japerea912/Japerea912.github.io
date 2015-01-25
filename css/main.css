@@ -1,6 +1,7 @@
 
-
-
-h1 { font-family: 'Ubuntu', sans-serif; font-weight: 400; }
-#info {background-color:#C0C0C0;}
-#infootro {background-color:#4682B4;}
+nav {line-height:30px;
+  background-color:#eeeeee;
+  height:300px;
+  width:100px;
+  float:left;
+  padding:5px;}
